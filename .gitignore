@@ -1,0 +1,6 @@
+data/Raw/
+data/Processed/
+*.xlsx
+*.csv
+*.pbix
+.ipynb_checkpoints/
